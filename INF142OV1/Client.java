@@ -5,6 +5,7 @@ public class Client {
 	//Teste commit
 	//Legge til ny comment
 	//Legge til via GitHub nettsida
+	//ny Pull! :)
 	private int clientId;
 	private String serverIP = "";
 	private int serverPort;
