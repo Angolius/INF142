@@ -4,6 +4,7 @@ import java.net.*;
 
 public class Client {
 	//Teste commit
+	//Legge til ny comment
 	private int clientId;
 	private String serverIP = "";
 	private int serverPort;
