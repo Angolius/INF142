@@ -3,6 +3,7 @@ import java.io.*;
 import java.net.*;
 
 public class Client {
+	//#YOLO
 	private int clientId;
 	private String serverIP = "";
 	private int serverPort;
