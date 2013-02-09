@@ -1,10 +1,10 @@
-
 import java.io.*;
 import java.net.*;
 
 public class Client {
 	//Teste commit
 	//Legge til ny comment
+	//Legge til via GitHub nettsida
 	private int clientId;
 	private String serverIP = "";
 	private int serverPort;
